@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weather Forecast Application</string>
+    <string name="cities_dropdown_label">Select City</string>
+
+    <string name="btn_retry">Retry</string>
+    <string name="error_message_fail_to_connect">Network Failure</string>
+
+    <string name="c_degree_symbol">\u2103</string>
+    <string name="f_degree_symbol">\u2109</string>
+</resources>
